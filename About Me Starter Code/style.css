@@ -21,7 +21,7 @@ body, h1, h2, h3, h4, p, a {
 }
 
 .header {
-  height: 50vh;
+  height: 100vh;
   background-image: url(images/livros2.jpg);
   background-size: cover ;
   background-position: center;
@@ -61,7 +61,7 @@ body, h1, h2, h3, h4, p, a {
   margin-bottom: 60px;
   padding: 45px 45px 70px;
   background-color: #ffffff;
-  box-shadow: 4px 4px 5px rgba(0, 132, 255, 0.4);
+  box-shadow: 4px 4px 5px rgba(255, 128, 0, 0.4);
 }
 
 .card-title {
@@ -73,7 +73,7 @@ body, h1, h2, h3, h4, p, a {
 
 .card-text {
   font-size: 16px;
-  text-;
+  
 }
 
 .card-image {
